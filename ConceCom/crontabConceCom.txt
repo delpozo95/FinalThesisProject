@@ -1,0 +1,4 @@
+ 
+*/10 * * * * /usr/bin/python3 /root/pythonScripts/FinalModbusCodeEnd.py
+51 * * * * /usr/bin/python3 /root/pythonScripts/ftpMQTTEnd.py
+30 21 * * * /usr/bin/python3 /root/pythonScripts/deleteOldCSVConceCom.py
